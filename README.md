@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JaraClaudioEz
 - 👀 I’m interested in become a javascript full-stack developer.
 - 🌱 I’m currently learning about MERN stack, more specific Node.js
-- 💞️ I’m looking to collaborate on any project who will give me experience in my learning goal
+- 💞️ I’m looking to collaborate on any project who will give me experience on my learning goal
 - 📫 How to reach me at Linkedin: https://www.linkedin.com/in/jaraclaudioez/
 
 <!---
